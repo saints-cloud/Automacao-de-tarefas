@@ -2,8 +2,6 @@
 
 Este projeto foi desenvolvido para automatizar o processo de cadastro de produtos no sistema de gestão da empresa. A automação utiliza Python e bibliotecas específicas para interações com a interface gráfica e manipulação de dados. Com isso, o cadastro de milhares de produtos, que antes era feito manualmente, agora pode ser realizado de forma automática, reduzindo o tempo e minimizando erros humanos.
 
----
-
 ## 🚀 Funcionalidades
 
 - Abertura automática do sistema no navegador.
@@ -11,8 +9,6 @@ Este projeto foi desenvolvido para automatizar o processo de cadastro de produto
 - Leitura de uma base de dados em formato CSV contendo informações dos produtos.
 - Preenchimento automático de formulários no sistema.
 - Execução diária ou sob demanda.
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -23,15 +19,10 @@ Este projeto foi desenvolvido para automatizar o processo de cadastro de produto
   - `time`: Para gerenciar intervalos de espera e garantir que o sistema acompanhe a automação.
   - `openpyxl`: Para lidar com arquivos no formato Excel (se necessário para futuras implementações).
 
----
-
 ## 📂 Estrutura do Projeto
-├── main.py                # Script principal com a lógica da automação
-├── produtos.csv           # Arquivo CSV contendo os dados dos produtos (código, marca, tipo, categoria, etc.)
+├── main.py                # Script principal com a lógica da automação <br/>
+├── produtos.csv           # Arquivo CSV contendo os dados dos produtos (código, marca, tipo, categoria, etc.)<br/>
 └── README.md              # Documentação do projeto
-
-
----
 
 ## 📋 Pré-requisitos
 
@@ -40,7 +31,6 @@ Este projeto foi desenvolvido para automatizar o processo de cadastro de produto
    ```bash
    pip install pyautogui pandas openpyxl
 
----
 ## 🖥️ Como Utilizar
 
 1. Clone este repositório:
@@ -52,7 +42,6 @@ Este projeto foi desenvolvido para automatizar o processo de cadastro de produto
 3. Execute o script principal:
    python main.py
 
----
 
 ## 📌 Detalhes do Script
 
@@ -80,4 +69,4 @@ Este projeto foi desenvolvido para automatizar o processo de cadastro de produto
 Caso tenha dúvidas ou sugestões, entre em contato:
 - Nome: Lays Pinheiro
 - Email: [pinheiro.lays01@gmail.com](mailto:seuemail@gmail.com)
-- LinkedIn: [[seulinkedin](https://www.linkedin.com/in/laysspinheiro/)](https://www.linkedin.com/in/seulinkedin/)
+- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/laysspinheiro/)]
